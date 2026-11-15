@@ -1,5 +1,8 @@
 # JobTrack: Job Application Kanban Board
 
+**Live demo:** https://jobtrack-three-tau.vercel.app
+*Free hosting use pannirukken, adhanala mudhal load 30-60 seconds edukkalaam.*
+
 Track every job application on a drag-and-drop board (Wishlist, Applied, Interview, Offer, Rejected),
 get follow-up reminders and see what share of your applications reach the interview stage.
 
